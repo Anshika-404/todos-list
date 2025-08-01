@@ -20,7 +20,6 @@ This is a simple Todo List application built using **React**. It allows users to
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/Anshika-404/todos-list
 cd todos-list
 
